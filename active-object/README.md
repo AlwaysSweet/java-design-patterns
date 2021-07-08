@@ -11,7 +11,7 @@ tags:
 
 
 ## Intent
-The active object design pattern decouples method execution from method invocation for objects that each reside in their thread of control. The goal is to introduce concurrency, by using asynchronous method invocation and a scheduler for handling requests.
+The active object design pattern decouples method execution from method invocation for objects that each reside in their thread of control. The goal is to introduce concurrency, by using asynchronous method invocation, and a scheduler for handling requests.
 
 ## Explanation
 
